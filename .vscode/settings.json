@@ -1,3 +1,4 @@
 {
-    "svn.ignoreMissingSvnWarning": true
+    "svn.ignoreMissingSvnWarning": true,
+    "python.pythonPath": "C:\\python37\\cv\\Scripts\\python.exe"
 }
